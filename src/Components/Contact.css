@@ -1,0 +1,27 @@
+.contact {
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact h2 {
+    color: #007bff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .contact p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  .contact ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact li {
+    margin-bottom: 10px;
+  }
+  
